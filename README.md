@@ -9,9 +9,9 @@ cada pais tem sua pasta especifica com script e resultados (necessario, pois a t
 *1 utilizar o arquivo script_extracaoFRED_exemplo.R como exemplo;
 *2 adicionar a pasta padrao e colocar o nome do país;
 *3 na primeira lista, adicionar os codigos do país, sendo o primeiro o PIB trimestral (a ordem dos demais nao importa);
-*Bloco arquivos externos*
-*4 se houver series do yahoo finnace, extrair na linha 144;
-*5 se houver arquivos fora, como .csv por exemplo, ajustar na linha 154;
+*Bloco arquivos externos*{
+*4 se houver series do yahoo finance, extrair na linha 144;
+*5 se houver arquivos fora, como .csv por exemplo, ajustar na linha 154;}
 *Bloco arquivos externos*
 *6 na linha 205, ha a listagem dos codigos que precisam aplicar os retornos conforme o glossario extraido na etapa de extracao;
 
